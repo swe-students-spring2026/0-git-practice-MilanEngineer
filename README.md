@@ -2,7 +2,9 @@
 
 ## An Interesting Read about Software Engineering - Milan Engineer
 
-### Article: [The New York Times Games’ Path to Dark Mode](https://open.nytimes.com/the-new-york-times-games-path-to-dark-mode-345dfe464e1a)
+### Article
+
+[The New York Times Games’ Path to Dark Mode](https://open.nytimes.com/the-new-york-times-games-path-to-dark-mode-345dfe464e1a)
 
 By: The NYT Open Team
 
@@ -10,4 +12,4 @@ I found this article interesting as I frequently play the NYT Games and did not 
 
 Furthermore, it was interesting to see how the software development processes we learn about in class are applied in the real world. These include design diagrams, Agile development, and technologies such as React and CSS. Finally, I appreciated how the article highlighted the impact of developing new features for users, while also demonstrating how these features benefit the business as a whole. Hopefully this example can demonstrate to other companies the importance of working with their users to improve their product.
 
-Comment from Adam Shin: Great article! I also learned how hard this was when I tried to do this in middle school by simply inverting all the colors. 
+Comment from Adam Shin: Great article! I also learned how hard this was when I tried to do this in middle school by simply inverting all the colors.
